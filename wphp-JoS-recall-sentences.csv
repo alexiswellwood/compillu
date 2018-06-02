@@ -1,0 +1,97 @@
+repeatability,comparative,item,sentence
+repeatable,control,101,Last summer more famous bands had a big stadium show than lesser-known bands did
+repeatable,illusion,101,Last summer more famous bands had a big stadium show than the lesser-known band did
+non-repeatable,control,101,Last summer more famous bands had their first stadium show than lesser-known bands did
+non-repeatable,illusion,101,Last summer more famous bands had their first stadium show than the lesser-known band did
+repeatable,control,102,In English class more girls wrote a charming haiku than boys did
+repeatable,illusion,102,In English class more girls wrote a charming haiku than I did
+non-repeatable,control,102,In English class more girls wrote their first haiku than boys did
+non-repeatable,illusion,102,In English class more girls wrote their first haiku than I did
+repeatable,control,103,This year more football fans bought a home game ticket than hockey fans did
+repeatable,illusion,103,This year more football fans bought a home game ticket than the hockey fan did
+non-repeatable,control,103,This year more football fans bought their first game ticket than hockey fans did
+non-repeatable,illusion,103,This year more football fans bought their first game ticket than the hockey fan did
+repeatable,control,104,At the new cafe more women tried a new green tea drink than reluctant men did
+repeatable,illusion,104,At the new cafe more women tried a new green tea drink than the reluctant man did
+non-repeatable,control,104,At the new cafe more women tried their first green tea drink than reluctant men did
+non-repeatable,illusion,104,At the new cafe more women tried their first green tea drink than the reluctant man did
+repeatable,control,105,At Peter's party more toddlers ate a tasty strawberry cupcake than high schoolers did
+repeatable,illusion,105,At Peter's party more toddlers ate a tasty strawberry cupcake than the high schooler did
+non-repeatable,control,105,At Peter's party more toddlers ate their first strawberry cupcake than high schoolers did
+non-repeatable,illusion,105,At Peter's party more toddlers ate their first strawberry cupcake than the high schooler did
+repeatable,control,106,Before exams ended more undergrads handed in a final paper than grad students did
+repeatable,illusion,106,Before exams ended more undergrads handed in a final paper than the grad student did
+non-repeatable,control,106,Before exams ended more undergrads handed in their final paper than grad students did
+non-repeatable,illusion,106,Before exams ended more undergrads handed in their final paper than the grad student did
+repeatable,control,107,That year more visiting Americans saw an exciting bullfight than young Spaniards did
+repeatable,illusion,107,That year more visiting Americans saw an exciting bullfight than the young Spaniard did
+non-repeatable,control,107,That year more visiting Americans saw their first bullfight than young Spaniards did
+non-repeatable,illusion,107,That year more visiting Americans saw their first bullfight than the young Spaniard did
+repeatable,control,108,Yesterday more seniors skipped an extremely boring class than juniors did last month
+repeatable,illusion,108,Yesterday more seniors skipped an extremely boring class than Jonathan did last month
+non-repeatable,control,108,Yesterday more seniors skipped their least favorite class than juniors did last month
+non-repeatable,illusion,108,Yesterday more seniors skipped their least favorite class than Jonathan did last month
+repeatable,control,109,By 5 o'clock more busy telemarketers had taken an easy call than lazy telemarketers did
+repeatable,illusion,109,By 5 o'clock more busy telemarketers had taken an easy call than the lazy telemarketer did
+non-repeatable,control,109,By 5 o'clock more busy telemarketers had taken their last call than lazy telemarketers did
+non-repeatable,illusion,109,By 5 o'clock more busy telemarketers had taken their last call than the lazy telemarketer did
+repeatable,control,110,At the bridal shower more family members drank a tall glass of champagne than friends did
+repeatable,illusion,110,At the bridal shower more family members drank a tall glass of champagne than Fiona did
+non-repeatable,control,110,At the bridal shower more family members drank only one glass of champagne than friends did
+non-repeatable,illusion,110,At the bridal shower more family members drank only one glass of champagne than Fiona did
+repeatable,control,111,That week more female students handed in a short term paper than male students did
+repeatable,illusion,111,That week more female students handed in a short term paper than the male student did
+non-repeatable,control,111,That week more female students handed in their second term paper than male students did
+non-repeatable,illusion,111,That week more female students handed in their second term paper than the male student did
+repeatable,control,112,Last year more professional writers published an acclaimed novel than amateur authors did
+repeatable,illusion,112,Last year more professional writers published an acclaimed novel than the amateur author did
+non-repeatable,control,112,Last year more professional writers published their second novel than amateur authors did
+non-repeatable,illusion,112,Last year more professional writers published their second novel than the amateur author did
+repeatable,control,201,This week more hard-working students continued writing their thesis than lazy students did
+repeatable,illusion,201,This week more hard-working students continued writing their thesis than the lazy student did
+non-repeatable,control,201,This week more hard-working students began writing their thesis than lazy students did
+non-repeatable,illusion,201,This week more hard-working students began writing their thesis than the lazy student did
+repeatable,control,202,In September more New Yorkers attended law school than Canadians did all of last year
+repeatable,illusion,202,In September more New Yorkers attended law school than Candace did all of last year
+non-repeatable,control,202,In September more New Yorkers started law school than Canadians did all of last year
+non-repeatable,illusion,202,In September more New Yorkers started law school than Candace did all of last year
+repeatable,control,203,During that war more middle-aged Alabamans were exposed to combat than young Alaskans were
+repeatable,illusion,203,During that war more middle-aged Alabamans were exposed to combat than the young Alaskan was
+non-repeatable,control,203,During that war more middle-aged Alabamans were introduced to combat than young Alaskans were
+non-repeatable,illusion,203,During that war more middle-aged Alabamans were introduced to combat than the young Alaskan was
+repeatable,control,204,That week more German architects continued working on a big project than French architects did
+repeatable,illusion,204,That week more German architects continued working on a big project than the French architect did
+non-repeatable,control,204,That week more German architects finished working on a big project than French architects did
+non-repeatable,illusion,204,That week more German architects finished working on a big project than the French architect did
+repeatable,control,205,Last month more junior employees prolonged their vacation than senior employees did
+repeatable,illusion,205,Last month more junior employees prolonged their vacation than the senior employee did
+non-repeatable,control,205,Last month more junior employees started their vacation than senior employees did
+non-repeatable,illusion,205,Last month more junior employees started their vacation than the senior employee did
+repeatable,control,206,Last week more History majors continued writing their literature essay than English majors did
+repeatable,illusion,206,Last week more History majors continued writing their literature essay than the English major did
+non-repeatable,control,206,Last week more History majors started writing their literature essay than English majors did
+non-repeatable,illusion,206,Last week more History majors started writing their literature essay than the English major did
+repeatable,control,207,On Monday more librarians organized an enormous filing task than secretaries did on Tuesday
+repeatable,illusion,207,On Monday more librarians organized an enormous filing task than the secretary did on Tuesday
+non-repeatable,control,207,On Monday more librarians began an enormous filing task than secretaries did on Tuesday
+non-repeatable,illusion,207,On Monday more librarians began an enormous filing task than the secretary did on Tuesday
+repeatable,control,208,Last year more young people were reading War & Peace than old men were
+repeatable,illusion,208,Last year more young people were reading War & Peace than the old man was
+non-repeatable,control,208,Last year more young people began reading War & Peace than old men did
+non-repeatable,illusion,208,Last year more young people began reading War & Peace than the old man did
+repeatable,control,209,Over the weekend more boys worked on the assignment than girls did
+repeatable,illusion,209,Over the weekend more boys worked on the assignment than Jenna did
+non-repeatable,control,209,Over the weekend more boys finished the assignment than girls did
+non-repeatable,illusion,209,Over the weekend more boys finished the assignment than Jenna did
+repeatable,control,210,In cooking class more international students were baking butter scones than American students were
+repeatable,illusion,210,In cooking class more international students were baking butter scones than the American student was
+non-repeatable,control,210,In cooking class more international students finished baking their scones than American students did
+non-repeatable,illusion,210,In cooking class more international students finished baking their scones than the American student did
+repeatable,control,211,Last month more lawyers were writing their big report than company executives were
+repeatable,illusion,211,Last month more lawyers were writing their big report than the company executive was
+non-repeatable,control,211,Last month more lawyers finished writing their big report than company executives did
+non-repeatable,illusion,211,Last month more lawyers finished writing their big report than the company executive did
+repeatable,control,212,At the party more seniors were talking with the professors than juniors were
+repeatable,illusion,212,At the party more seniors were talking with the professors than the junior was
+non-repeatable,control,212,At the party more seniors began talking with the professors than juniors did
+non-repeatable,illusion,212,At the party more seniors began talking with the professors than the junior did
