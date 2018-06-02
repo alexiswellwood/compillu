@@ -1,5 +1,5 @@
 # compillu
-This repository includes files for the paper "Anatomy of a comparative illusion", to appear in *Journal of Semantics* that provide further evidence for the main finding we report, as well as for the variability in people's responses to comparative illusions both within and across acceptability judgment tasks. 
+This repository includes files for the paper "Anatomy of a comparative illusion", to appear in *Journal of Semantics*, that provide further evidence for the main finding we report, as well as for the variability in people's responses to comparative illusions both within and across acceptability judgment tasks. 
 
 The current citation info for this paper is: 
 
