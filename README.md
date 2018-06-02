@@ -1,7 +1,7 @@
 # compillu
 Files for the paper "Anatomy of a comparative illusion", to appear in *Journal of Semantics*. 
 
-The current (2 June 2018) citation info for this paper is: 
+The current citation info for this paper is: 
 
 > Wellwood, Alexis, Roumyana Pancheva, Valentine Hacquard, and Colin Phillips. (to appear). The anatomy of a comparative illusion. Accepted for publication in *Journal of Semantics*. 
 
